@@ -1,4 +1,6 @@
-# app
+# My first Vue app made in class
+
+Julien SEIXAS
 
 ## Project setup
 ```
